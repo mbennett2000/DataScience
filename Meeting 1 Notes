@@ -1,0 +1,27 @@
+Ideas for Final Project Stats
+
+1: Predicting Player Awards for the end of year
+2: Predicting Team Success from current 
+3: Comparing the last 10 years
+
+Predicting the 2022-2023 Standings from Present Stats and Previous Years
+
+Data Techniques to Use
+Confidence Intervals/Rate X
+Regression X
+Covariance X
+Regression Loss Function X
+Gradient Descent
+Logistic Regression 
+Scaling and Mapping 
+PCA 
+Decision Tree X
+Classification X
+
+Deciding Data Set Size: 5 Year: Note for COVID Season
+
+Next Steps:
+Games Played Threshold: Select Perferred Percentage
+Reading the data into a dataframe: Bennett
+Psuedocode for the process of our code: Player Stats to What outputs: Ty
+Looking for a better dataset: 1 Each
