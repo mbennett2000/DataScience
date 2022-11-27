@@ -1,0 +1,5 @@
+Scan selected previous years player stats data
+See which player stats correllated to the most successful teams (will have pick cutoff amount, maybe 16, 8 from each conference similar to the playoff)
+Using these datapoints of success to modify dataset for player stats-on most successful teams
+Compare those stats to the players & teams in the current NBA season (suggested games played threshold of 70% of at least a 3/4 game played)
+Use those stats to predict potential success in the current NBA season
